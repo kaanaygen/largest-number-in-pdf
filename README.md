@@ -56,5 +56,5 @@ This repository contains a simple Python script for extracting the largest numer
 
 ---
 
-Happy parsing! 🎉
+Thank you for your time and consideration! 
 
