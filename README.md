@@ -1,6 +1,5 @@
 # largest-number-in-pdf
 
-# ConductorAI PDF Parser
 
 This repository contains a simple Python script for extracting the largest numeric value from a PDF document.
 
