@@ -1,24 +1,23 @@
-# largest-number-in-pdf
-
+# Largest Number in PDF
 
 This repository contains a simple Python script for extracting the largest numeric value from a PDF document.
 
 ## Prerequisites
 
-- **Python 3.7+** installed on your system. You can check your Python version:
-
+- **Python 3.7+** installed on your system. Check your version:
   ```bash
   python3 --version
   ```
-
 - **pip** (the Python package installer) should be available.
 
 ## Installation
 
 1. **Clone the repository**
+
+   Replace `<your-username>` with your GitHub username:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone https://github.com/<your-username>/largest-number-in-pdf.git
+   cd largest-number-in-pdf
    ```
 
 2. **Install dependencies**
@@ -34,20 +33,20 @@ This repository contains a simple Python script for extracting the largest numer
 
 ## Usage
 
-1. **Download the PDF** you want to analyze and place it in the root of the cloned repository. Rename it to `conductorAI.pdf`, or pass its filename as an argument.
+1. **Download the PDF** you want to analyze and place it in the root of the cloned repository. Rename it to `conductorAI.pdf` (or any other name).
 
 2. **Run the script**:
    ```bash
    python3 extract_largest_number.py <path/to/your.pdf>
    ```
 
-   For example, if you named your file `conductorAI.pdf`:
-
+   For example, if your file is named `conductorAI.pdf`:
    ```bash
    python3 extract_largest_number.py conductorAI.pdf
    ```
 
 3. **Output**
+
    The script will print the largest literal number found in the document to the console.
 
 ## Notes
