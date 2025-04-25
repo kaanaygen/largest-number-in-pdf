@@ -33,7 +33,7 @@ This repository contains a simple Python script for extracting the largest numer
 
 ## Usage
 
-1. **Download the PDF** you want to analyze and place it in the root of the cloned repository. Rename it to `conductorAI.pdf` (or any other name).
+1. **Download the PDF** you want to analyze and place it in the root of the cloned repository.
 
 2. **Run the script**:
    ```bash
