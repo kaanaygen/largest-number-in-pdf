@@ -51,7 +51,7 @@ This repository contains a simple Python script for extracting the largest numer
 
 ## Notes
 
-- The script uses [PyMuPDF]([https://pypi.org/project/PyMuPDF/](https://pymupdf.readthedocs.io/en/latest/)) to extract text from the PDF.
+- The script uses [PyMuPDF]((https://pymupdf.readthedocs.io/en/latest/)) to extract text from the PDF.
 - Ensure the PDF file is not password-protected.
 
 ---
